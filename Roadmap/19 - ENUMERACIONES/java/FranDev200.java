@@ -24,7 +24,7 @@ public class FranDev200 {
          */
 
         Scanner sc = new Scanner(System.in);
-/*
+
         for(int i=1 ; i <= 7 ; i++) {
 
             System.out.println(i + " --- " + DiasSemana.values()[i - 1]);
@@ -55,7 +55,7 @@ public class FranDev200 {
 
         }
 
-
+        /*
             DIFICULTAD EXTRA (opcional):
             * Crea un pequeño sistema de gestión del estado de pedidos.
             * Implementa una clase que defina un pedido con las siguientes características:
